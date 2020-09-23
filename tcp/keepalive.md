@@ -21,6 +21,7 @@ Keep TCP connection alive
   Heartbeat to prevent the connection depreciated by proxy or firewall
 
 # Related Questions
+  * What's the procedure if it turns out the connection is gone?
 
 # Reference
 
