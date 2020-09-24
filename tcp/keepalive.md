@@ -20,6 +20,12 @@ Keep TCP connection alive
 ### Preventing disconnection due to network inactivity
   Heartbeat to prevent the connection depreciated by proxy or firewall
 
+# In Practice
+
+## How to change config
+
+## In Program
+
 # Related Questions
   * What's the procedure if it turns out the connection is gone?
 
